@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="325.331" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="I want to Login to ServiceNow application" name="" time="324.992">
+<system-out><![CDATA[
+Given User launches the chrome browser and enters the url...................passed
+When User provides UserName and Password....................................passed
+Then User login to ServiceNow successfully..................................passed
+Then User Clicks on StartBuilding...........................................passed
+Then Click on All and navigate to Service catalog...........................passed
+Then Click on Peripherals...................................................passed
+Then Click on Logitech Wireless Mouse.......................................passed
+Then Set Order Mouse Qty to two.............................................passed
+Then Click on Request Number................................................passed
+Then Click on Request Number and update details.............................passed
+Then Navigate to Requested Item details.....................................passed
+Then Update Requested Item details..........................................passed
+Then User  add work Notes...................................................passed
+Then User Closes the Task...................................................passed
+Then User adds Additional Comments..........................................passed
+Then User deletes the task and quit the browser.............................passed
+]]></system-out>
+</testcase>
+</testsuite>
